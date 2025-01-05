@@ -33,7 +33,7 @@ This project addresses the challenges of resizing and recoloring rug designs whi
 ### Visual Examples
 
 - **Original Design**  
-  ![Original Design](S:\\Department Sharing\\Design-AI\\Patterns\\1.bmp)
+  ![Original Design](path/to/resized_image.png)
 
 - **Resized Design**  
   ![Resized Design](path/to/resized_image.png)
