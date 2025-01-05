@@ -33,13 +33,10 @@ This project addresses the challenges of resizing and recoloring rug designs whi
 ### Visual Examples
 
 - **Original Design**  
-  ![Original Design](path/to/resized_image.png)
+  ![Original Design](https://github.com/mohammed21kamall/BMP-Helper/blob/main/Images/1320px.bmp)
 
 - **Resized Design**  
-  ![Resized Design](path/to/resized_image.png)
-
-- **Recolored Close-Up**  
-  ![Recolored Close-Up](path/to/recolored_closeup.png)
+  ![Resized Design](https://github.com/mohammed21kamall/BMP-Helper/blob/main/Images/1680px.bmp)
 
 ---
 
